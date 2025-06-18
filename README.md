@@ -1,4 +1,4 @@
-![Border?](https://www.epiqglobal.com/epiq/media/sites/Cyber-Incident-Header.jpg?ext=.jpg | height = 100)
+![Border?](https://www.epiqglobal.com/epiq/media/sites/Cyber-Incident-Header.jpg?ext=.jpg=250x100)
 
 # Brian Ryu | CS / Cybersecurity
 
