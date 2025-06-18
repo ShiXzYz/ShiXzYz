@@ -1,4 +1,6 @@
-# Brian Ryu | Cybersecurity Interest
+![Border?](https://media.discordapp.net/attachments/810228635121876992/1384753373294759976/o1.png?ex=68539393&is=68524213&hm=fcc7c0d19da9149d9980f8055a954d026f9006d0872a283076d3c585e8ddc459&=&format=webp&quality=lossless&width=1100&height=468)
+
+# Brian Ryu | CS / Cybersecurity
 
 ## Hi there 👋
 
