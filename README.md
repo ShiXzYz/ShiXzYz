@@ -2,6 +2,9 @@
 
 # Brian Ryu | CS / Cybersecurity
 
+University of Virginia School of Engineering & Applied Science
+
+--------
 ## Hi there 👋
 
 <!--
