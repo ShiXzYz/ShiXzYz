@@ -3,6 +3,8 @@
 # Brian Ryu | CS / Cybersecurity
 
 University of Virginia School of Engineering & Applied Science
+- Major: Computer Science
+- Minor: Engineering Business, Data Science
 
 --------
 ## Hi there 👋
