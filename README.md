@@ -38,6 +38,12 @@ University of Virginia School of Engineering & Applied Science
 </a>
 
 --------
+
+## Future Plans/Goals:
+* Pursue Masters Degree?
+* Work at a cybersecurity agency (government/corporations)
+* Save the digital world 😎
+
 ## Contact Me:
 Main: brianryu18@gmail.com
 
