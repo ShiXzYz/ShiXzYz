@@ -12,6 +12,7 @@ University of Virginia School of Engineering & Applied Science
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" width=8% height=8%>
 </a>
 
+--------
 ## Currently Working On:
 1. Earning the CompTIA Network+ certificate
 2. Continue studying and playing around with AI and automation tools
@@ -36,6 +37,7 @@ University of Virginia School of Engineering & Applied Science
 <img src="https://images.credly.com/size/220x220/images/394e8e2a-e84b-4150-b52f-f5ec9b1a1e61/image.png" width=13% height=13%>
 </a>
 
+--------
 ## Contact Me:
 Main: brianryu18@gmail.com
 
