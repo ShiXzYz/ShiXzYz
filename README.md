@@ -15,7 +15,7 @@ University of Virginia School of Engineering & Applied Science
 --------
 ## Currently Working On:
 1. Earning the CompTIA Network+ certificate
-2. Continue studying and playing around with AI and automation tools
+2. Continue studying and playing around with AI and automation tools:
     - n8n
     - Make
     - MCP
