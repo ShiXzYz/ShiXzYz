@@ -12,6 +12,8 @@ University of Virginia School of Engineering & Applied Science
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" width=8% height=8%>
 </a>
 
+## Projects/Experiences:
+
 ## Certifications:
 <a href="https://www.credly.com/badges/3a6e4ec8-aa36-4ed8-bcb9-2e09041a0507/public_url">
 <img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width=13% height=13%>
@@ -22,6 +24,11 @@ University of Virginia School of Engineering & Applied Science
 <a href="https://www.credly.com/badges/2d2c08c2-b5f8-4cc6-a068-30939b30e8f7/public_url">
 <img src="https://images.credly.com/size/220x220/images/394e8e2a-e84b-4150-b52f-f5ec9b1a1e61/image.png" width=13% height=13%>
 </a>
+
+## Contact Me:
+Main: brianryu18@gmail.com
+
+School: kfg2ec@virginia.edu
 
 
 <!--
