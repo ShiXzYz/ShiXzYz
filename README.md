@@ -32,6 +32,10 @@ University of Virginia School of Engineering & Applied Science
 </p>
 
 ### Security Tools:
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png?20230509085415" width=5%>
+</p>
+
 ### Software Tools:
 ### Cloud and DevOps:
 ### Operating Systems:
