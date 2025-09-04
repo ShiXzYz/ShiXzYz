@@ -33,7 +33,7 @@ University of Virginia School of Engineering & Applied Science
 
 ### Security Tools:
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png?20230509085415" width=5%>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png?20230509085415" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/1024px-Kali-dragon-icon.svg.png?20211125065834" width=5%>
 </p>
 
 ### Software Tools:
