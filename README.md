@@ -38,6 +38,10 @@ University of Virginia School of Engineering & Applied Science
 
 ### Software Tools:
 ### Cloud and DevOps:
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width=5%><img src="https://img.icons8.com/fluent/512/terraform.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width=5%>
+</p>
+
 ### Operating Systems:
 <p align="center">
     <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tux_%283-color%29.svg/revision/latest/scale-to-width-down/1200?cb=20241002064834" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width=5%>
