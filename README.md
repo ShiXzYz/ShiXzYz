@@ -52,6 +52,13 @@ University of Virginia School of Engineering & Applied Science
 </p>
 
 ## Projects/Experiences:
+### Summer 2025 Internship @ My Core Competency, LLC
+_AI-Powered Discord Bot with n8n_
+- Built an AI-driven Discord chatbot using n8n, a workflow automation platform, integrated with Discord and OpenAI APIs to facilitate intelligent message handling, session-based memory, and downstream task routing.
+- Developed robust error handling and JSON parsing routines within n8n to manage variable AI output formats and preserve reliability.
+- Automated communication workflows, routing user queries into structured payloads and enabling scalable, reusable logic in n8n's visual workflows.
+- Used asynchronous HTTP requests (via axios) for seamless interaction between Discord, n8n, and AI models (e.g., OpenAI).
+
 
 ## Certifications:
 <p align="center">
