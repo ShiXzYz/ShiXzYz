@@ -13,7 +13,7 @@ University of Virginia School of Engineering & Applied Science
 </a>
 
 --------
-## Currently Working On:
+## <img src="https://cdn-icons-png.flaticon.com/512/4438/4438839.png" width=2% height=2%> Currently Working On:
 1. Earning the CompTIA Network+ certificate
 2. Continue studying and playing around with AI and automation tools:
     - n8n
