@@ -7,7 +7,7 @@ University of Virginia School of Engineering & Applied Science
 - Minor: Engineering Business, Data Science
 
 --------
-## My Profile: 
+## <img src="https://cdn-icons-png.flaticon.com/512/6915/6915987.png" width=2% height=2%> My Profile: 
 <a href="https://www.linkedin.com/in/brian-ryu-5537a3345/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" width=8% height=8%>
 </a>
