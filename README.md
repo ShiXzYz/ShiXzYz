@@ -24,7 +24,7 @@ University of Virginia School of Engineering & Applied Science
 3. Successfully get an internship for Summer 2026!!!
 4. Make it through my third year at UVA
 
-## Skills:
+## <img src="https://icons.iconarchive.com/icons/google/noto-emoji-objects/256/62971-gear-icon.png" width=2% height=2%> Skills:
 
 ### Coding Languages: 
 <p align="center">
