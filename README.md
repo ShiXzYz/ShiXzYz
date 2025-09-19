@@ -51,7 +51,7 @@ University of Virginia School of Engineering & Applied Science
     <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tux_%283-color%29.svg/revision/latest/scale-to-width-down/1200?cb=20241002064834" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/768px-MacOS_logo_%282017%29.svg.png?20210723125421" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" width=5%>
 </p>
 
-## Projects/Experiences:
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Star_icon_stylized.svg/2153px-Star_icon_stylized.svg.png" width=2% height=2%> Projects/Experiences:
 ### Summer 2025 Internship @ My Core Competency, LLC
 _AI-Powered Discord Bot with n8n_
 - Built an AI-driven Discord chatbot using n8n, a workflow automation platform, integrated with Discord and OpenAI APIs to facilitate intelligent message handling, session-based memory, and downstream task routing.
@@ -60,7 +60,7 @@ _AI-Powered Discord Bot with n8n_
 - Used asynchronous HTTP requests (via axios) for seamless interaction between Discord, n8n, and AI models (e.g., OpenAI).
 
 
-## Certifications:
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/768px-Green_check.svg.png" width=2%> Certifications:
 <p align="center">
 <a href="https://www.credly.com/badges/3a6e4ec8-aa36-4ed8-bcb9-2e09041a0507/public_url">
 <img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width=13% height=13%>
