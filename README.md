@@ -14,15 +14,14 @@ University of Virginia School of Engineering & Applied Science
 
 --------
 ## <img src="https://cdn-icons-png.flaticon.com/512/4438/4438839.png" width=2% height=2%> Currently Working On:
-1. Earning the CompTIA Network+ certificate
-2. Continue studying and playing around with AI and automation tools:
+1. Continue studying and playing around with AI and automation tools:
     - n8n
     - Make
     - MCP
     - Pytorch
     - A2A
-3. Successfully get an internship for Summer 2026!!!
-4. Make it through my third year at UVA
+2. Successfully get an internship for Summer 2026!!!
+3. Make it through my third year at UVA
 
 ## <img src="https://icons.iconarchive.com/icons/google/noto-emoji-objects/256/62971-gear-icon.png" width=2% height=2%> Skills:
 
