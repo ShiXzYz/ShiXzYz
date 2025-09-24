@@ -71,7 +71,7 @@ _AI-Powered Discord Bot with n8n_
 <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=13% height=13%>
 </a>
 <a href="https://www.credly.com/badges/2d2c08c2-b5f8-4cc6-a068-30939b30e8f7/public_url">
-<img src="https://images.credly.com/size/220x220/images/394e8e2a-e84b-4150-b52f-f5ec9b1a1e61/image.png" width=13% height=13%>
+<img src="https://images.credly.com/size/680x680/images/29cf0093-6ed0-4329-8aca-8695f266c91f/blob" width=13% height=13%>
 </a>
 </p>
 
