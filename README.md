@@ -82,7 +82,7 @@ _AI-Powered Discord Bot with n8n_
 * Work at a cybersecurity agency (government/corporations)
 * Save the digital world 😎
 
-## Contact Me:
+## <img src="https://cdn-icons-png.flaticon.com/512/8644/8644324.png" width=2% height=2%> Contact Me:
 Main: brianryu18@gmail.com
 
 School: kfg2ec@virginia.edu
