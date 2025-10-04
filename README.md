@@ -80,6 +80,7 @@ _AI-Powered Discord Bot with n8n_
 ## <img src="https://cdn-icons-png.flaticon.com/512/3967/3967265.png" width=2% height=2%> Future Plans/Goals:
 * (Maybe) Pursue Masters Degree
 * Work at a cybersecurity agency (government/corporations)
+* Security Engineer?
 * Save the digital world 😎
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/8644/8644324.png" width=2% height=2%> Contact Me:
