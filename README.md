@@ -59,6 +59,14 @@ _AI-Powered Discord Bot with n8n_
 - Automated communication workflows, routing user queries into structured payloads and enabling scalable, reusable logic in n8n's visual workflows.
 - Used asynchronous HTTP requests (via axios) for seamless interaction between Discord, n8n, and AI models (e.g., OpenAI).
 
+### Homelab: Secure Self-Hosted Application Platform with Zero-Trust Network Segmentation
+- Designed and deployed a secure self-hosted application platform using Linux, Docker, and pfSense
+- Implemented zero-trust network segmentation with VLANs and firewall rules to isolate backend services from LAN and WAN traffic
+- Configured a reverse proxy architecture with DDoS mitigation to securely expose public services while concealing origin IP addresses
+- Built private Docker bridge networks and enforced least-privilege firewall policies to minimize attack surface and prevent lateral movement
+- Deployed WireGuard VPN for secure remote administration without exposing management interfaces to the internet
+- Managed DNS routing (A, SRV records) and tuned container/JVM resources to ensure reliable performance under load
+
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/768px-Green_check.svg.png" width=2%> Certifications:
 <p align="center">
