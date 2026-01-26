@@ -28,12 +28,12 @@ University of Virginia School of Engineering & Applied Science
 
 ### Coding Languages: 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=5%><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425" width=5.5%><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width=3.85%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" width=5%><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width=5%>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=5%><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=5.5%><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width=3.85%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" width=5%><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width=5%>
 </p>
 
 ### Security Tools:
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png?20230509085415" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/1024px-Kali-dragon-icon.svg.png?20211125065834" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" width=5%>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png?20230509085415" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" width=5%>
 </p>
 
 ### Software Tools:
@@ -48,7 +48,7 @@ University of Virginia School of Engineering & Applied Science
 
 ### Operating Systems:
 <p align="center">
-    <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tux_%283-color%29.svg/revision/latest/scale-to-width-down/1200?cb=20241002064834" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/768px-MacOS_logo_%282017%29.svg.png?20210723125421" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" width=5%>
+    <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tux_%283-color%29.svg/revision/latest/scale-to-width-down/1200?cb=20241002064834" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" width=5%>
 </p>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Star_icon_stylized.svg/2153px-Star_icon_stylized.svg.png" width=2% height=2%> Projects/Experiences:
