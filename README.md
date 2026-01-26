@@ -68,7 +68,7 @@ _AI-Powered Discord Bot with n8n_
 - Managed DNS routing (A, SRV records) and tuned container/JVM resources to ensure reliable performance under load
 
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/768px-Green_check.svg.png" width=2%> Certifications:
+## <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Green_check.svg" width=2%> Certifications:
 <p align="center">
 <a href="https://www.credly.com/badges/54ba97ac-4ee9-4ae4-abf8-ea6328d81b60/public_url">
 <img src="https://images.credly.com/size/220x220/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width=13% height=13%>
