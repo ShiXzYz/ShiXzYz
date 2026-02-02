@@ -43,7 +43,7 @@ University of Virginia School of Engineering & Applied Science
 
 ### Cloud and DevOps:
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width=5%><img src="https://img.icons8.com/fluent/512/terraform.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width=5%>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width=5%><img src="https://img.icons8.com/fluent/512/terraform.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width=5%><img src="https://brandlogos.net/wp-content/uploads/2025/10/docker_mark-logo_brandlogos.net_yetav.png" width=5%>
 </p>
 
 ### Operating Systems:
