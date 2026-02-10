@@ -24,7 +24,7 @@ University of Virginia School of Engineering & Applied Science
 3. Successfully get an internship for Summer 2026!!!
 4. Make it through my third year at UVA
 
-## <img src="https://icons.iconarchive.com/icons/google/noto-emoji-objects/256/62971-gear-icon.png" width=2% height=2%> Skills:
+## <img src="https://images.emojiterra.com/google/android-10/512px/2699.png" width=2% height=2%> Skills:
 
 ### Coding Languages: 
 <p align="center">
@@ -52,7 +52,7 @@ University of Virginia School of Engineering & Applied Science
     <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tux_%283-color%29.svg/revision/latest/scale-to-width-down/1200?cb=20241002064834" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" width=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" width=5%><img src="https://img.icons8.com/?size=100&id=GxnnEGl75yew&format=png&color=000000" width=5%>
 </p>
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Star_icon_stylized.svg/2153px-Star_icon_stylized.svg.png" width=2% height=2%> Projects/Experiences:
+## <img src="https://png.pngtree.com/png-clipart/20220926/original/pngtree-shiny-gold-star-clipart-illustration-design-png-image_8633179.png" width=2% height=2%> Projects/Experiences:
 ### Summer 2025 Internship @ My Core Competency, LLC
 _AI-Powered Discord Bot with n8n_
 - Built an AI-driven Discord chatbot using n8n, a workflow automation platform, integrated with Discord and OpenAI APIs to facilitate intelligent message handling, session-based memory, and downstream task routing.
